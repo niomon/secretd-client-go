@@ -1,4 +1,4 @@
-module gitlab.com/blocksq/secretd-client-go
+module github.com/niomon/secretd-client-go
 
 go 1.13
 
