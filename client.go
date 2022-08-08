@@ -7,9 +7,9 @@ import (
 	"net/rpc"
 
 	"github.com/flynn/noise"
+	"github.com/niomon/secretd-client-go/cbor"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
-	"gitlab.com/blocksq/secretd-client-go/cbor"
 )
 
 // AuthProvider is used to implement a client authentication method.

@@ -8,7 +8,7 @@ import (
 	"github.com/flynn/noise"
 	"github.com/pkg/errors"
 
-	"gitlab.com/blocksq/secretd-client-go/cbor"
+	"github.com/niomon/secretd-client-go/cbor"
 )
 
 const handshakeMagic = "SecretD_Handshake_1_0"
